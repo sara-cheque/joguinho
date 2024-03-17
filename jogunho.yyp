@@ -26,6 +26,7 @@
     {"id":{"name":"Sserra","path":"sprites/Sserra/Sserra.yy",},},
     {"id":{"name":"oCenouraPodre","path":"objects/oCenouraPodre/oCenouraPodre.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"sTeste","path":"sprites/sTeste/sTeste.yy",},},
     {"id":{"name":"oSerra","path":"objects/oSerra/oSerra.yy",},},
     {"id":{"name":"oSerraMovel","path":"objects/oSerraMovel/oSerraMovel.yy",},},
     {"id":{"name":"ambiente2","path":"rooms/ambiente2/ambiente2.yy",},},

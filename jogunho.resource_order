@@ -8,6 +8,7 @@
     {"name":"Sserra","order":3,"path":"sprites/Sserra/Sserra.yy",},
     {"name":"oCenouraPodre","order":1,"path":"objects/oCenouraPodre/oCenouraPodre.yy",},
     {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sTeste","order":6,"path":"sprites/sTeste/sTeste.yy",},
     {"name":"oSerra","order":3,"path":"objects/oSerra/oSerra.yy",},
     {"name":"oSerraMovel","order":4,"path":"objects/oSerraMovel/oSerraMovel.yy",},
     {"name":"ambiente2","order":1,"path":"rooms/ambiente2/ambiente2.yy",},
