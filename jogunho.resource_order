@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
     {"name":"Cenas","order":2,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"ambiente3","order":2,"path":"rooms/ambiente3/ambiente3.yy",},
