@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
+    {"name":"Cenas","order":2,"path":"folders/Cenas.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"ambiente3","order":2,"path":"rooms/ambiente3/ambiente3.yy",},
+    {"name":"Sserra","order":3,"path":"sprites/Sserra/Sserra.yy",},
+    {"name":"oCenouraPodre","order":1,"path":"objects/oCenouraPodre/oCenouraPodre.yy",},
+    {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oSerra","order":3,"path":"objects/oSerra/oSerra.yy",},
+    {"name":"oSerraMovel","order":4,"path":"objects/oSerraMovel/oSerraMovel.yy",},
+    {"name":"ambiente2","order":1,"path":"rooms/ambiente2/ambiente2.yy",},
+    {"name":"sCoelhoAnimado","order":4,"path":"sprites/sCoelhoAnimado/sCoelhoAnimado.yy",},
+    {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
+    {"name":"ScenouraPodre","order":1,"path":"sprites/ScenouraPodre/ScenouraPodre.yy",},
+    {"name":"ambiente4","order":3,"path":"rooms/ambiente4/ambiente4.yy",},
+    {"name":"sFundo","order":5,"path":"sprites/sFundo/sFundo.yy",},
+  ],
+}

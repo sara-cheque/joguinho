@@ -1,0 +1,50 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "jogunho",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cenas","folderPath":"folders/Cenas.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.89",
+  },
+  "resources": [
+    {"id":{"name":"ambiente3","path":"rooms/ambiente3/ambiente3.yy",},},
+    {"id":{"name":"Sserra","path":"sprites/Sserra/Sserra.yy",},},
+    {"id":{"name":"oCenouraPodre","path":"objects/oCenouraPodre/oCenouraPodre.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oSerra","path":"objects/oSerra/oSerra.yy",},},
+    {"id":{"name":"oSerraMovel","path":"objects/oSerraMovel/oSerraMovel.yy",},},
+    {"id":{"name":"ambiente2","path":"rooms/ambiente2/ambiente2.yy",},},
+    {"id":{"name":"sCoelhoAnimado","path":"sprites/sCoelhoAnimado/sCoelhoAnimado.yy",},},
+    {"id":{"name":"Splayer","path":"sprites/Splayer/Splayer.yy",},},
+    {"id":{"name":"Scenoura","path":"sprites/Scenoura/Scenoura.yy",},},
+    {"id":{"name":"oCenoura","path":"objects/oCenoura/oCenoura.yy",},},
+    {"id":{"name":"ScenouraPodre","path":"sprites/ScenouraPodre/ScenouraPodre.yy",},},
+    {"id":{"name":"ambiente4","path":"rooms/ambiente4/ambiente4.yy",},},
+    {"id":{"name":"sFundo","path":"sprites/sFundo/sFundo.yy",},},
+    {"id":{"name":"ambiente1","path":"rooms/ambiente1/ambiente1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"ambiente1","path":"rooms/ambiente1/ambiente1.yy",},},
+    {"roomId":{"name":"ambiente2","path":"rooms/ambiente2/ambiente2.yy",},},
+    {"roomId":{"name":"ambiente3","path":"rooms/ambiente3/ambiente3.yy",},},
+    {"roomId":{"name":"ambiente4","path":"rooms/ambiente4/ambiente4.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
