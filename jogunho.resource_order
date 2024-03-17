@@ -14,6 +14,7 @@
     {"name":"ambiente2","order":1,"path":"rooms/ambiente2/ambiente2.yy",},
     {"name":"sCoelhoAnimado","order":4,"path":"sprites/sCoelhoAnimado/sCoelhoAnimado.yy",},
     {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
+    {"name":"oTeste","order":5,"path":"objects/oTeste/oTeste.yy",},
     {"name":"ScenouraPodre","order":1,"path":"sprites/ScenouraPodre/ScenouraPodre.yy",},
     {"name":"ambiente4","order":3,"path":"rooms/ambiente4/ambiente4.yy",},
     {"name":"sFundo","order":5,"path":"sprites/sFundo/sFundo.yy",},

@@ -33,6 +33,7 @@
     {"id":{"name":"sCoelhoAnimado","path":"sprites/sCoelhoAnimado/sCoelhoAnimado.yy",},},
     {"id":{"name":"Splayer","path":"sprites/Splayer/Splayer.yy",},},
     {"id":{"name":"Scenoura","path":"sprites/Scenoura/Scenoura.yy",},},
+    {"id":{"name":"oTeste","path":"objects/oTeste/oTeste.yy",},},
     {"id":{"name":"oCenoura","path":"objects/oCenoura/oCenoura.yy",},},
     {"id":{"name":"ScenouraPodre","path":"sprites/ScenouraPodre/ScenouraPodre.yy",},},
     {"id":{"name":"ambiente4","path":"rooms/ambiente4/ambiente4.yy",},},
